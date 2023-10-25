@@ -1,3 +1,3 @@
 students=["somya","harry"]
 print(students)
-Print("my name is somya")
+print("my name is somya")
