@@ -14,3 +14,6 @@ if "city" in person:
     print("City:", person["city"])
 else:
     print("City not found in the dictionary")
+
+    Rooms = {'totalroom' : 1000 ,'acroom' : 500 , 'nonac' : 500}
+    print(Rooms['totalroom'])
